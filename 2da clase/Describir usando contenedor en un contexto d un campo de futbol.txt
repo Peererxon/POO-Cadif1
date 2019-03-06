@@ -1,0 +1,33 @@
+objeto compuesto campo de futbol
+
+
+
+campeonato:
+
+	Equipos (coleccion)
+	Arbitros (coleccion)
+	Fanaticos(coleccion)
+	arbitro (Coleccion)
+
+	Equipos:
+	{equipo 1} 
+	{equipo 2}
+	{equipo 3}
+	atributos: jugadores,uniforme,nombre, jugadores (coleccion)
+
+	Arbitros:
+	{arbitro 1}
+	{arbitro 2}
+	{arbitro 3
+	atributos:uniforme,nombre, cedula,idiomas
+
+
+
+
+Edificio:
+
+ventana (coleccion)
+puerta (coleccion)
+escaleras (coleccion)
+piso (coleccion)
+apartamento (coleccion)

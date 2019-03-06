@@ -1,0 +1,26 @@
+Objeto edificio:
+
+ventanas (coleccion)
+Locales (coleccion)
+Pisos (Coleccion)
+
+
+     Edificio C.C Sotavento:
+		
+		Locales:
+			[Local 1]
+			[Local 2]
+			[Local 3]
+			[...]
+
+		Ventanas:
+			[Ventana 1]
+			[Ventama 2]
+			[Ventana 3]
+			[...]
+
+		Pisos:
+			[Planta baja]
+			[Primer piso]
+			[Segundo piso]
+			[Azotea]

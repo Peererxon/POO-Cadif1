@@ -1,0 +1,12 @@
+Tipo objeto compuesto
+objeto motor
+objeto ruedas
+objeto puertas
+objeto sillas
+objeto estructura externa
+objeto radio 
+___________________________________ (ensayo, estos no son objetos)
+encendido tipo logico
+apagado tipo logico
+marca alfanumerico
+modelo alfanumerico

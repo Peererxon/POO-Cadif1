@@ -1,0 +1,11 @@
+enemigos
+atacar
+avanzar
+
+subclase:
+personaje
+
+mario-ganar
+enemigos-atacar
+princesa
+luigi- ganar

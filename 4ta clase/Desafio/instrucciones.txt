@@ -1,0 +1,13 @@
+Realizar las siguientes actividades (Enviar el archivo del proyecto para poder ser evaluados):
+
+1.- Cree un mundo nuevo y agregue dos objetos de la superclase transporte modificando algunas de sus propiedades
+
+2.- Simule la competencia de los 2 objetos agregados de la superclase transporte
+
+3.- Haga que la cámara enfoque a los objetos de la clase transporte durante su trayectoria
+
+4.- Agregue los siguientes eventos: al ejecutar el proyecto cambie la densidad y color de la atmósfera, cuando el usuario 
+presione las teclas de flecha: la cámara se distancie de los objetos de la clase transporte mientras los sigue enfocando
+
+5.- Adicionalmente, agregue un evento de teclado que afecte el estado de alguno de los objetos de la clase transporte y
+un evento de mouse que muestre un mensaje de alguno de los objetos de la clase transporte

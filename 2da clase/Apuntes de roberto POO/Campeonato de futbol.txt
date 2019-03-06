@@ -1,0 +1,27 @@
+Objeto Campeonato de futbol:
+
+Partidos (coleccion)
+Estadios (coleccion)
+Equipos (Coleccion)
+
+
+     Liga de Campeones:
+		
+		Partidos:
+			[partido 1]
+			[partido 2]
+			[partido 3]
+			[...]
+
+		Estadios:
+			[Estadio 1]
+			[Estadio 2]
+			[Estadio 3]
+			[...]
+
+		Equipos:
+			[Equipo 1]
+			[Equipo 2]
+			[Equipo 3]
+			[...]
+

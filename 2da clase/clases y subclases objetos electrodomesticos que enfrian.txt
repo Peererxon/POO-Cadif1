@@ -1,0 +1,6 @@
+clase principal: electrodomesticos atributos: marca,tamaño tipo,color,precio, año de fabricacion
+Metodos: enfriar,enceder,apagar,enchufar
+
+sub:clase nevera atributos: numero de puertas Metodos: apagar luces al cerrar puerta, encender luces al abrir puerta,abrir puerta
+sub:clase aire atributos:  Metodos: cambiar de temperatura
+sub:clase freezer Metodos: cambiar de temperatura, abrir puerta, conhelar

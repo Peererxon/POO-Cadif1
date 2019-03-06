@@ -1,0 +1,26 @@
+objeto compuesto persona
+objeto  cabeza
+objeto  ojos
+objeto boca
+objeto orejas
+objeto cuello
+objeto torzo
+objeto manos
+objeto codos
+objeto pierna
+objeto entrepierna
+objeto gluteos
+objeto rodilla
+objeto talon
+objeto pies
+objeto abdomen
+
+objeto organos
+objeto corazon
+objeto riñon
+objeto vejiga
+objeto pulmones
+objeto faringe
+objeto laringe
+objeto tendones
+objeto musculos

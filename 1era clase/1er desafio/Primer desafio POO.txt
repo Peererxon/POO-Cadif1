@@ -1,0 +1,40 @@
+Analice el contexto de una universidad y realice las siguientes actividades en un archivo de Word:-
+
+1.- Escriba al menos 3 objetos tangibles que participan en ese sistema
+
+2.- Escriba al menos 3 objetos intangibles que participan en ese sistema
+
+3.- Seleccione uno de los objetos intangibles y uno de los objetos tangibles. Escriba los atributos relevantes de cada uno de estos objetos
+
+4.- Escriba al menos 3 métodos de cada uno de los objetos seleccionados
+
+5.- Defina 2 clases que agrupen algunos objetos de este contexto, indicando sus atributos y sus métodos.
+
+ Objetos tangibles:
+
+1.estudiantes 
+metodos:correr,aprender,saltar,asistir
+
+2.Profesor: atributos- edad, altura, profesion, uniforme,color de ojos, color de pelo, clor de piel
+metodos: correr,enseñar,hablar
+
+3.computadoras 
+Metodos: Chequear la Bios (lo hace automaticamente en el arranque) encender,apagar, abrir aplicaciones
+
+Objetos intangibles:
+
+1.Leyes de la universidad
+Metodos: Seguirse 
+                          NOTA:Profesora espero esta parte este bien, al ser objetos intangibles no se me ocurrieron mas metods para ambos objetos)
+2.Normas de la universidad
+Metodos:Seguirse
+
+3.Plantel administrativo
+Atributos: numero de miembros, nombre de miembros,uniforme de este plantel
+Metodo: Administrar,Dirigir,Mandar,Delegar
+
+Clase profesor atributos: profesion,uniforme,altura,color de ojos, color de piel,edad, caracter
+Metodos de la clase profesor: Dar clases, enseñar, hablar
+
+Clase estudiante atributos: Uniforme,edad,color de ojos, color de piel, numero de lista, comportamiento
+Metodo: aprender, escribir,correr, gritar,escuchar
